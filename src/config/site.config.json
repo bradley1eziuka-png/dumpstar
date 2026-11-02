@@ -1,0 +1,96 @@
+{
+  "business": {
+    "name": "Dumpstar Quality Rental & Removal",
+    "shortName": "Dumpstar",
+    "phone": "(734) 747-0543",
+    "email": "info@dumpstardetroit.com",
+    "address": { "street": "", "city": "Northville", "state": "MI", "zip": "" },
+    "serviceAreas": [
+      "Northville, MI",
+      "Novi, MI",
+      "Livonia, MI",
+      "Plymouth, MI",
+      "Canton, MI",
+      "South Lyon, MI"
+    ],
+    "hours": [{ "days": "Monday – Sunday", "hours": "Open 24 hours" }],
+    "open24x7": true,
+    "social": {
+      "facebook": "",
+      "instagram": "",
+      "google": "",
+      "yelp": "",
+      "nextdoor": "",
+      "youtube": ""
+    }
+  },
+  "branding": {
+    "logo": {
+      "src": "/images/logo.png",
+      "alt": "Dumpstar Quality Rental & Removal logo"
+    },
+    "favicon": "/favicon.png",
+    "colors": {},
+    "images": {}
+  },
+  "services": {
+    "enabled": ["junkRemoval", "dumpsterRental", "cleanouts", "demolition", "materialPickup"],
+    "overrides": {}
+  },
+  "content": {
+    "hero": {
+      "eyebrow": "Open 24 Hours · 7 Days a Week",
+      "headline": "Junk Removal & Dumpster Rentals in Northville, MI",
+      "tagline": "Quality Rental & Removal",
+      "subheadline": "From garage cleanouts and junk removal to dumpster rentals and debris hauling, Dumpstar Quality Rental & Removal makes clearing your property simple. Proudly serving Northville and surrounding Michigan communities."
+    },
+    "about": {
+      "eyebrow": "About Dumpstar",
+      "title": "Locally Operated. Straightforward Service.",
+      "body": "Dumpstar Quality Rental & Removal is a locally operated junk removal and dumpster rental business based in Northville, Michigan. We focus on dependable service, straightforward communication, and helping you reclaim your space.\n\nWhether you're a homeowner clearing out a garage, a contractor managing job-site debris, a property manager preparing a unit, or a business that needs a cleanup, we're here to make the process simple.",
+      "badgeTitle": "Locally Operated",
+      "badgeText": "Northville, Michigan"
+    },
+    "faqs": [
+      {
+        "q": "What services does Dumpstar offer?",
+        "a": "We offer junk removal, dumpster rentals, garage and property cleanouts, demolition and debris removal, and material pickup and delivery."
+      },
+      {
+        "q": "What size are your dumpster rentals?",
+        "a": "Our dumpster rentals are 15-yard dumpster trailers, a practical fit for renovations, cleanouts, construction projects, and property cleanup."
+      },
+      {
+        "q": "What areas do you serve?",
+        "a": "We serve Northville, Novi, Livonia, Plymouth, Canton, and South Lyon, Michigan. If you're nearby and don't see your town listed, give us a call and ask."
+      },
+      {
+        "q": "How do I get a quote?",
+        "a": "Fill out the free quote form on this page or call (734) 747-0543. Tell us what you need, where the project is, and any details about the job. We're open 24 hours a day, 7 days a week."
+      },
+      {
+        "q": "Who do you work with?",
+        "a": "We work with homeowners, contractors, property managers, and businesses."
+      }
+    ],
+    "footerBlurb": "Junk removal, dumpster rentals, property cleanouts, demolition cleanup, and material pickup and delivery. Locally operated in Northville, Michigan and open 24 hours a day, 7 days a week.",
+    "finalCta": {
+      "title": "Ready to Reclaim Your Space?",
+      "body": "Tell us about your cleanout, cleanup, or dumpster rental and we'll help you take the next step. We're open 24 hours a day, 7 days a week."
+    },
+    "testimonials": []
+  },
+  "seo": {
+    "siteUrl": "",
+    "title": "Junk Removal & Dumpster Rental in Northville, MI | Dumpstar",
+    "description": "Junk removal, 15-yard dumpster rentals, and garage cleanouts in Northville, Novi, Livonia, Plymouth, Canton & South Lyon, MI. Open 24/7. Get a free quote.",
+    "ogImage": "/images/og-image.jpg",
+    "locale": "en_US"
+  },
+  "form": {
+    "provider": "demo",
+    "formspreeId": "",
+    "webhookUrl": "",
+    "showDemoNotice": true
+  }
+}
